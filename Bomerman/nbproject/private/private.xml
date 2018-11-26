@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Bomberman.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/GameWorld/GameSize.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/GameLoader/GameLevel.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Board.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/GameFrame.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Entity/Tile/Tile.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Animation/BrickAnimation.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Entity/Mob/Bomb/TimeExplosion.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Animation/EnemyAnimation.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Entity/Entity.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Game/Timer.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Level/FileLevel.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/GameWorld/Direction.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Entity/Tile/Map/Brick.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Animation/ExplosionAnimation.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Animation/Animation.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Game/Game.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Entity/Mob/Mob.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/GameLoader/GameManager.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Animation/PlayerAnimation.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/res/Level/Level2.txt</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Entity/Mob/Enemy/Enemy.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Entity/Mob/Player/Player.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/Entity/Mob/Enemy/types/Ballom.java</file>
+            <file>file:/C:/Users/NhaPham/Desktop/Bomerman/src/Bomberman/GameLoader/GameStart.java</file>
+        </group>
+    </open-files>
+</project-private>
